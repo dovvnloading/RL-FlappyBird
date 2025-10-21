@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Q-Learning Flappy", "Q-Learning Flappy\Q-Learning Flappy.pyproj", "{AD44AC24-7E5F-4B0C-A845-9638F5B53067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD44AC24-7E5F-4B0C-A845-9638F5B53067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD44AC24-7E5F-4B0C-A845-9638F5B53067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044012B7-867C-4F0C-B64D-94F5B92EF0F5}
+	EndGlobalSection
+EndGlobal
